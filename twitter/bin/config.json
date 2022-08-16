@@ -1,0 +1,11 @@
+{
+
+  "ConsumerKey": "",
+  "ConsumerSecret": "",
+  "AccessToken":"",
+  "AccessSecret": "",
+  "Logger": {
+    "LogLevel": 1,
+    "LogFileDir": "./logs/"
+  }
+}
